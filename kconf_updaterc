@@ -1,0 +1,16 @@
+updateInfoAdded=true
+
+[filepicker.upd]
+ctime=1624492945
+done=filepicker-remove-old-previews-entry
+mtime=1623489902
+
+[spectacle_newConfig.upd]
+ctime=1624549137
+done=spectacle-new-config
+mtime=1623147722
+
+[spectacle_shortcuts.upd]
+ctime=1624549137
+done=spectacle-migrate-shortcuts
+mtime=1623147722

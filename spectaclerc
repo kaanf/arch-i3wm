@@ -1,0 +1,12 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureDelay=2
+captureMode=5
+cropRegion=748,345,664,610
+window-position=56,46
+
+[Save]
+lastSaveAsLocation=file:///home/kaan/Pictures/skillshare.png
+lastSaveLocation=file:///home/kaan/Pictures/skillshare.png

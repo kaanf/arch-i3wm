@@ -1,0 +1,24 @@
+2021/06/26-14:46:20.015 41c Reusing MANIFEST /home/kaan/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/06/26-14:46:20.015 41c Recovering log #19
+2021/06/26-14:46:20.016 41c Reusing old log /home/kaan/.config/discord/Local Storage/leveldb/000019.log 
+2021/06/26-14:57:21.432 80b Level-0 table #23: started
+2021/06/26-14:57:21.441 80b Level-0 table #23: 18601 bytes OK
+2021/06/26-14:57:21.453 80b Delete type=0 #19
+2021/06/26-15:19:21.434 80b Level-0 table #25: started
+2021/06/26-15:19:21.445 80b Level-0 table #25: 19013 bytes OK
+2021/06/26-15:19:21.457 80b Delete type=0 #22
+2021/06/26-15:42:21.432 80b Level-0 table #27: started
+2021/06/26-15:42:21.446 80b Level-0 table #27: 18378 bytes OK
+2021/06/26-15:42:21.455 80b Delete type=0 #24
+2021/06/26-15:42:21.455 80b Compacting 4@0 + 1@1 files
+2021/06/26-15:42:21.462 80b Generated table #28@0: 16 keys, 7950 bytes
+2021/06/26-15:42:21.462 80b Compacted 4@0 + 1@1 files => 7950 bytes
+2021/06/26-15:42:21.471 80b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/26-15:42:21.472 80b Delete type=2 #23
+2021/06/26-15:42:21.472 80b Delete type=2 #27
+2021/06/26-15:42:21.472 80b Delete type=2 #25
+2021/06/26-15:42:21.472 80b Delete type=2 #18
+2021/06/26-15:42:21.472 80b Delete type=2 #20
+2021/06/26-16:05:21.432 80b Level-0 table #30: started
+2021/06/26-16:05:21.441 80b Level-0 table #30: 18374 bytes OK
+2021/06/26-16:05:21.450 80b Delete type=0 #26

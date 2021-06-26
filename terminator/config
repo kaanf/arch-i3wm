@@ -1,0 +1,25 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_darkness = 0.78
+    background_type = transparent
+    cursor_shape = ibeam
+    cursor_color = "#aaaaaa"
+    show_titlebar = False
+    scrollbar_position = hidden
+  [[Kaan]]
+    background_darkness = 0.8
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    show_titlebar = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

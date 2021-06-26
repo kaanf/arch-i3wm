@@ -1,0 +1,6 @@
+2021/06/24-21:54:37.525 5b8f Creating DB /home/kaan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2021/06/24-21:54:37.548 5b8f Reusing MANIFEST /home/kaan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/24-21:55:20.958 5913 Level-0 table #5: started
+2021/06/24-21:55:20.966 5913 Level-0 table #5: 15974 bytes OK
+2021/06/24-21:55:20.975 5913 Delete type=0 #3
+2021/06/24-21:55:20.975 5913 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
